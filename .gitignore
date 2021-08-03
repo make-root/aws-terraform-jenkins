@@ -1,0 +1,10 @@
+resources/
+
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+.terraform/
+.idea/
+*.retry
